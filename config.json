@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailfetch",
+        "uuid": 21458664,
+        "checksum": "kl7l4"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
